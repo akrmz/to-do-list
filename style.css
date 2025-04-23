@@ -143,3 +143,20 @@ li:hover {
     opacity: 1;
   }
 }
+
+footer {
+  margin-top: 20px;
+  font-size: 0.9rem;
+  color: #7f8c8d;
+  text-align: center;
+}
+footer a {
+  color: #2980b9;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  list-style: none;
+  padding: 0;
+}
+footer a:hover {
+  color: #1c5980;
+}
